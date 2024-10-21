@@ -22,6 +22,7 @@ Bloom AI is an innovative plant health monitoring system that combines IoT senso
 - APIs: ThingSpeak, Groq, Deepgram
 - Data Visualization: Recharts
 - 3D Rendering: Three.js
+![bloomAI](https://github.com/user-attachments/assets/a0000792-fbfc-4b56-81e2-3d7bf76db835)
 
 ## Getting Started
 
